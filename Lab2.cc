@@ -11,9 +11,9 @@ using namespace std;
 int main() {
   int pierwsza=5;
   int druga=7;
-  int wynikdzialnia=pierwsza+druga;
+  int wynik=pierwsza+druga;
 
   // Wypisuje wynik dzialania
-  cout <<"Wynik Dodawania Dwóch Liczb To:"<<wynikdzialania<<endl;
+  cout <<"Wynik Dodawania Dwóch Liczb To:"<<wynik<<endl;
   return 0;
 }
